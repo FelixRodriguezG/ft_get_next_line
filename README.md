@@ -143,7 +143,7 @@ casillas empiezan en `NULL` sin necesidad de inicializarlas.
 Se ha usado IA (Claude y Gemini) con dos fines:
 
 - **Mejorar la comprensión del ejercicio, como guía socrática.** En lugar de pedirle
-  el código hecho, lo he usado para entender los conceptos y razonar sobre mi propio
+  el código hecho, la he usado para entender los conceptos y razonar sobre mi propio
   código: las variables estáticas y su inicialización, el EOF y Ctrl+D en la terminal,
   la evaluación en cortocircuito de `||`, por qué sumar a un puntero `NULL` es
   comportamiento indefinido, o cómo gestionar varios fd en el bonus con `stash[fd]`.
