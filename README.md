@@ -140,7 +140,7 @@ casillas empiezan en `NULL` sin necesidad de inicializarlas.
 
 ### Uso de IA
 
-Se ha usado un IA (Claude y Gemini) con dos fines:
+Se ha usado IA (Claude y Gemini) con dos fines:
 
 - **Mejorar la comprensión del ejercicio, como guía socrática.** En lugar de pedirle
   el código hecho, lo he usado para entender los conceptos y razonar sobre mi propio
