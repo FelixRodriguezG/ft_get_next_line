@@ -1,0 +1,5 @@
+¡Hola! Yo soy test_3.txt. Mi fd es justo el siguiente al tuyo.
+Calla, que por tu culpa una vez dije "chola" en vez de "hola".
+
+Perdona, era una línea vacía. Alguien tenía que probar el \n solo.
+Con mi salto de línea final, como la gente educada. Adiós.

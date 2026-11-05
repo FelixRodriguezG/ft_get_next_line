@@ -26,9 +26,7 @@
 
 char	*get_next_line(int fd);
 
-/*******************************************************************************
- *							HELPER FUNCTIONS PROTOTYPES
- ******************************************************************************/
+
 
 size_t	ft_strlen(const char *s);
 char	*ft_strchr(const char *s, int c);

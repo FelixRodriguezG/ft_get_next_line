@@ -1,0 +1,6 @@
+Hola, soy test_2.txt. Vivo en un fd y me leen línea a línea.
+Antes compartíamos un solo stash y me robabas las letras, ¿te acuerdas?
+Ahora cada uno tiene su propio stash[fd]. Mucho más civilizado.
+¿Hola? ¿Te has quedado en blanco?
+Muy profesional. ¿Y cómo vas a despedirte?
+Pues yo me despido sin salto de línea, a lo loco
